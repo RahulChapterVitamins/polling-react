@@ -1,0 +1,64 @@
+.quetion-page-container {
+
+    display: flex;
+    flex-direction: column;
+    padding: 5% 7% 1% 2%;
+    border-radius: 10px;
+}
+
+.quetion-title {
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.options {
+    font-size: 1rem;
+    font-weight: 600;
+    margin-top: 2%;
+    margin-bottom: 3px;
+}
+
+.answer-container {
+    border: 1px solid black;
+    padding: 1%;
+    font-size: 1.2rem;
+    font-weight: 600;
+    width: 70%;
+    margin-bottom: 2%;
+    border-radius: 10px;
+}
+
+.submit-answer {
+    background-color: green;
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 1% 5%;
+    margin-top: 5%;
+    width: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 30%;
+}
+
+.by-who-container{
+    font-weight: 500;
+    font-size: 0.9rem;
+    margin-top: 4%;
+    margin-left: 27%;
+}
+
+.person{
+    color: rgb(241, 163, 105);
+    text-decoration: underline;
+    font-weight: 600;
+}
+
+.chapter-logo-1{
+    margin-top: 7%;
+    width: 8%;
+    margin-left: 31%;
+}

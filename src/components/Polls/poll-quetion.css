@@ -1,0 +1,23 @@
+.poll-quetion-container{
+    border: 3px solid grey;
+    padding: 7% 5%;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    transition: ease 0.5s;
+
+    &:hover{
+        border: 3px solid rgb(240, 154, 91);
+    }
+}
+
+.poll-quetion{
+    font-size: 0.8rem;
+    font-weight: 500;
+}
+
+.poll-votes{
+    font-size: 0.6rem;
+    font-weight: 600;
+    color: grey;
+}

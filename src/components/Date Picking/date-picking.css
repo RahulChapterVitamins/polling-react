@@ -1,0 +1,80 @@
+.date-picking-container {
+    width: 40vw;
+    height: 40vh;
+    padding: 1.5%;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+}
+
+.date-picking-container-title {
+    font-size: 1.6rem;
+    font-weight: 500;
+    text-align: center;
+}
+
+.date-picker {
+    display: flex;
+    flex-direction: row;
+    margin-top: 3%;
+    margin-bottom: 2%;
+}
+
+
+.inner-date-pickr{
+    margin-right: 35%;
+}
+
+
+.start-date {
+    display: block;
+    font-size: 0.8rem;
+    font-weight: 500;
+    padding: 1%;
+}
+
+.date-picking-input {
+    border: 2px solid grey;
+    font-size: 1rem;
+    padding: 0.7%;
+    border-radius: 5px;
+}
+
+.date-picking-input-2 {
+    border: 2px solid grey;
+    font-size: 1rem;
+    padding: 0.5%;
+    border-radius: 5px;
+    width: 82%;
+}
+
+.date-picking-buttons {
+    margin-top: 6%;
+    display: flex;
+    justify-content: end;
+    width: 82%;
+    height: 5vh;
+}
+
+.date-creating {
+    color: white;
+    background-color: rgb(240, 154, 91);
+    padding: 0.8% 1.3%;
+    border: none;
+    border-radius: 5px;
+    font-size: 0.8rem;
+    font-weight: 600;
+    width: 20%;
+}
+
+.date-picking{
+    color: white;
+    background-color: rgb(54,147,233);
+    padding: 1% 1%;
+    border: none;
+    border-radius: 5px;
+    font-size: 0.8rem;
+    font-weight: 600;
+    margin-left: 7%;
+    width: 20%;
+}

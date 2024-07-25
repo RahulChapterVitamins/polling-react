@@ -1,0 +1,42 @@
+:root{
+    padding: 0;
+}
+
+.main-contianer{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inner-contianer{
+    max-width: fit-content;
+    max-height: fit-content;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.logo{
+    width: 30rem;
+}
+
+.button-continue{
+    font-size: 1.5rem;
+    background-color: rgb(240,154,91);
+    max-width: fit-content;
+    margin-top: 15%;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 2% 5%;
+    font-weight: 700;
+
+    &:hover{
+        background-color: rgb(56, 186, 56);
+    }
+}

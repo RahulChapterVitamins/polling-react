@@ -1,0 +1,17 @@
+.sidebar-button {
+    background-color:white;
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: black;
+    width: 100%;
+    padding: 4%;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 8%;
+    margin-top: 10%;
+
+    &:hover {
+        background-color: rgb(240, 154, 91);
+        color: white;
+    }
+}

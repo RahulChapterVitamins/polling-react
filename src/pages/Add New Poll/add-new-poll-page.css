@@ -1,0 +1,38 @@
+.add-new-title{
+    font-size: 1.5rem;
+    font-weight: 600;
+  
+}
+
+.inner-add-iteraction-container{
+    display: flex;
+    margin-top: 5%;
+    align-items: center;
+}
+
+.inner-add-interaction-container-1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+    padding: 2% 4%;
+    background-color: white;
+    border-radius: 5px;
+    margin-right: 6%;
+    transition: ease 0.5s; 
+    transform: none; 
+
+    &:hover{
+        border: 2px solid rgb(240, 154, 91); 
+    }
+}
+
+.poll-text-2{
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+.pollingImg{
+    width: 45%;
+}

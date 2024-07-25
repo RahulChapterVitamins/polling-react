@@ -1,0 +1,59 @@
+ 
+
+.home-navbar {
+    padding: 2%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 5vh;
+
+}
+
+.search-container {
+    display: flex;
+    align-items: center;
+    border: 3px solid #696565;
+    border-radius: 10px;
+    width: 40%;
+    padding: 1.2%;
+}
+
+.search-icon {
+    margin-right: 5px;
+    color: grey;
+}
+
+.search-bar {
+    padding: 5px;
+    border: none;
+    font-size: 1.2rem;
+    width: 100%;
+
+    &:focus {
+        outline: none;
+        border: none;
+    }
+}
+
+.user-profile-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.home-main-container {
+    padding: 5px;
+    display: flex;
+    height: 100vh;
+}
+
+.sidebar {
+    width: 15%;
+
+}
+
+
+.page-container {
+    background-color: rgb(239, 239, 239);
+    width: 100%;
+}

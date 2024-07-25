@@ -1,0 +1,122 @@
+.polling-result-div{
+    padding: 2% 1%;
+}
+
+.polling-quetion{
+    border: 1px solid black;
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: grey;
+    width: 70%;
+    padding: 1%;
+    border-radius: 5px;
+    margin-bottom: 3%;
+}
+
+.option{
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+.inner-polling-quetion-percentage{
+    display: flex;
+    align-items: center;
+}
+
+.poll-result-percentage{
+    border: 2px solid rgb(139, 139, 142);
+    padding: 5px;
+    width: 70%;
+    font-size: 1.5rem;
+    font-weight: 500;
+    border-radius: 30px;
+    padding: 1%;
+    margin-top: 2%;
+}
+
+.percentage{
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin-left: 5%;
+}
+
+.show-result-conatiner{
+    position: absolute;
+    width: 66%;
+    height: 5%;
+}
+
+.polling-result-container{
+    border: 3px solid rgb(80, 81, 81);
+    padding: 1%;
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 7%;
+    border-radius: 10px;
+}
+
+.polling-result-container-text{
+    font-size: 1.7rem;
+    font-weight: 600;
+    text-align: center;
+}
+
+.share-link-container{
+    margin: 4% 0%;
+    display: flex;
+    align-items: center;
+    margin-left: 5%;
+}
+
+.inner-share-link-container{
+    border: 2px solid rgb(105, 106, 101);
+    padding: 5px;
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: grey;
+    width: 50%;
+    padding: 1%;
+    border-radius: 5px;
+}
+
+.copy-link-button{
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: white;
+    background-color: rgb(240,154,91);
+    padding: 1%;
+    border: none;
+    border-radius: 5px;
+    margin-left: 7%;
+
+}
+
+.generate-qr-cotainer{
+    display: flex;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+
+.qrCode{
+    width: 22%;
+}
+
+.scan-text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-left: 5%;
+}
+
+.scan-the-qr{
+    font-size: 1.6rem;
+    font-weight: 600;
+
+}
+
+.to-assess-p{
+    font-size: 1.1rem;
+    font-weight: 600;
+}

@@ -1,0 +1,32 @@
+{
+    "UserPollsData" : [
+        {
+            "test-number": "Test 1",
+            "start-date": "Thu, Jul 11 2024",
+            "last-date": "Thu, Jul 11 2024",
+            "start-time": "Time - 12.00 pm",
+            "end-time": "Time - 12.00 pm"
+        },
+        {
+            "test-number": "Test 2",
+            "start-date": "Thu, Jul 11 2024",
+            "last-date": "Thu, Jul 11 2024",
+            "start-time": "Time - 12.00 pm",
+            "end-time": "Time - 12.00 pm"
+        },
+        {
+            "test-number": "Test 3",
+            "start-date": "Thu, Jul 11 2024",
+            "last-date": "Thu, Jul 11 2024",
+            "start-time": "Time - 12.00 pm",
+            "end-time": "Time - 12.00 pm"
+        },
+        {
+            "test-number": "Test 4",
+            "start-date": "Thu, Jul 11 2024",
+            "last-date": "Thu, Jul 11 2024",
+            "start-time": "Time - 12.00 pm",
+            "end-time": "Time - 12.00 pm"
+        }
+    ]
+} 
